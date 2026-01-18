@@ -31,7 +31,7 @@ FLASK_APP_NAME="mosdns_monitor_panel"
 PROJECT_DIR="/opt/$FLASK_APP_NAME"
 BACKUP_DIR="$PROJECT_DIR/backups"
 FLASK_PORT=5001
-MOSDNS_ADMIN_URL="http://192.168.1.5:9091/metrics"
+MOSDNS_ADMIN_URL="http://192.168.1.5:9091"
 WEB_USER="www-data"
 SYSTEMD_SERVICE_FILE="/etc/systemd/system/$FLASK_APP_NAME.service"
 
