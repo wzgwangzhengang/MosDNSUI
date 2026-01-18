@@ -36,8 +36,8 @@ WEB_USER="www-data"
 SYSTEMD_SERVICE_FILE="/etc/systemd/system/$FLASK_APP_NAME.service"
 
 # --- 外部下载地址 ---
-APP_PY_URL="https://raw.githubusercontent.com/Jimmyzxk/wzgwangzhengang/main/app.py"
-INDEX_HTML_URL="https://raw.githubusercontent.com/Jimmyzxk/wzgwangzhengang/main/index.html"
+APP_PY_URL="https://raw.githubusercontent.com/wzgwangzhengang/MosDNSUI/main/app.py"
+INDEX_HTML_URL="https://raw.githubusercontent.com/wzgwangzhengang/MosDNSUI/main/index.html"
 APP_PY_PATH="$PROJECT_DIR/app.py"
 INDEX_HTML_PATH="$PROJECT_DIR/templates/index.html"
 
