@@ -42,7 +42,7 @@ MosDNS 独立监控面板是一个简洁、美观且功能强大的 MosDNS 服�
 1.  **获取部署脚本**：
     将 `MosDNSUI.sh` 文件下载到您的服务器。最简单的方式是直接从本 GitHub 仓库下载：
     ```bash
-    wget https://raw.githubusercontent.com/Jimmyzxk/MosDNSUI/main/MosDNSUI.sh -O MosDNSUI.sh
+    wget https://raw.githubusercontent.com/wzgwangzhengang/MosDNSUI/main/MosDNSUI.sh -O MosDNSUI.sh
     ```
     _（请确保上述 `main` 分支和 `MosDNSUI.sh` 路径在您上传后是正确的）_
 
